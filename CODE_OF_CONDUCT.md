@@ -1,0 +1,1 @@
+The CONTRIBUTING.md file in my repository is designed to guide contributors through the process of making contributions. It includes information on how to report bugs, suggest enhancements, and submit pull requests. This document is vital for ensuring that contributions are consistent and beneficial to the project.
