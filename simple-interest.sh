@@ -1,0 +1,1 @@
+A script named simple-interest.sh has been added to the repository, demonstrating the practical application of shell scripting to solve problems, in this case, calculating simple interest. This script is an example of the coding practices and command-line proficiency I've developed throughout the project.
